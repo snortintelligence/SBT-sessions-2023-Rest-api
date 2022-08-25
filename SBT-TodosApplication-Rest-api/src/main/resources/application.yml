@@ -1,0 +1,3 @@
+# configure server port
+server:
+ port: 4040
